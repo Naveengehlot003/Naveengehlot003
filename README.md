@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Gehlot</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate **Cyber Security Student & Ethical Hacker**, skilled in identifying vulnerabilities, building defensive tools, and creating secure applications. I work on **real-world security projects**, automation tools, and full-stack applications using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveengehlot003&label=Profile%20views&color=0e75b6&style=flat" alt="naveengehlot003" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Network engneering , Cyber security, linux**
 
-- 💬 Ask me about **I am a passionate **Cyber Security Student & Ethical Hacker**, skilled in identifying vulnerabilities, building defensive tools, and creating secure applications. I work on **real-world security projects**, automation tools, and full-stack applications using modern technologies.**
+- 📫 How to reach me **naveengehlot14316@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zggw8w6q1V-5vU8XlGfuGQQ0dDWjmr-q/view?usp=sharing](https://drive.google.com/file/d/1zggw8w6q1V-5vU8XlGfuGQQ0dDWjmr-q/view?usp=sharing)
 
@@ -22,19 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveengehlot003&show_icons=true&locale=en&layout=compact" alt="naveengehlot003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveengehlot003&show_icons=true&locale=en" alt="naveengehlot003" /></p>
-## Hi there 👋
-
-<!--
-**Naveengehlot003/Naveengehlot003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
